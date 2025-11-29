@@ -1,1 +1,2 @@
 file insert->add->commit -m->push origin main.
+Any Modification in Github->git pull
